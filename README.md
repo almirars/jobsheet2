@@ -20,6 +20,12 @@
 
 ![scaffold](https://user-images.githubusercontent.com/64759903/107967421-aade0800-6fdf-11eb-9e6f-83c0ef476d0f.jpeg)
 
+6. coba dialog
+
+![dialog1](https://user-images.githubusercontent.com/64759903/107969390-4cfeef80-6fe2-11eb-995a-3a0732143611.jpeg)
+![dialog2](https://user-images.githubusercontent.com/64759903/107969394-4ec8b300-6fe2-11eb-8ece-62116783bcfd.jpeg)
+
+
 
 
 
