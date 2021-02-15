@@ -25,6 +25,10 @@
 ![dialog1](https://user-images.githubusercontent.com/64759903/107969390-4cfeef80-6fe2-11eb-995a-3a0732143611.jpeg)
 ![dialog2](https://user-images.githubusercontent.com/64759903/107969394-4ec8b300-6fe2-11eb-8ece-62116783bcfd.jpeg)
 
+7. coba textfield
+![textfield](https://user-images.githubusercontent.com/64759903/107970512-cba85c80-6fe3-11eb-8e64-7c0097cf3845.jpeg)
+
+
 
 
 
