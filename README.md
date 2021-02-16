@@ -55,6 +55,10 @@
 
 ![margin](https://user-images.githubusercontent.com/64759903/108029881-d7863400-7060-11eb-9fb4-f8a6a16c5604.jpeg)
 
+14. coba paading
+
+![padding](https://user-images.githubusercontent.com/64759903/108030699-3bf5c300-7062-11eb-8e61-81944ced9619.jpeg)
+
 
 
 
