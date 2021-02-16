@@ -29,6 +29,14 @@
 
 ![textfield](https://user-images.githubusercontent.com/64759903/107970512-cba85c80-6fe3-11eb-8e64-7c0097cf3845.jpeg)
 
+8. coba date
+
+![date1](https://user-images.githubusercontent.com/64759903/108021936-24aed980-7052-11eb-9191-98923028cc7c.jpeg)
+![date2](https://user-images.githubusercontent.com/64759903/108021934-224c7f80-7052-11eb-9dde-c822bfd5935f.jpeg)
+![date3](https://user-images.githubusercontent.com/64759903/108021935-24164300-7052-11eb-93db-29ef91efefd0.jpeg)
+
+
+
 
 
 
