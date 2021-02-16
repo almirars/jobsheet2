@@ -47,6 +47,9 @@
 
 ![color](https://user-images.githubusercontent.com/64759903/108027868-6bee9780-705d-11eb-8a37-f568467d02b2.jpeg)
 
+12. coba height dan width
+
+![height dan widhth](https://user-images.githubusercontent.com/64759903/108028854-0dc2b400-705f-11eb-8dce-d85761afdad4.jpeg)
 
 
 
