@@ -79,6 +79,9 @@
 
 ![stack](https://user-images.githubusercontent.com/64759903/108042631-a31b7380-7072-11eb-9759-a22e5120ea7c.jpeg)
 
+20. coba listview
+
+![listview](https://user-images.githubusercontent.com/64759903/108046041-c21c0480-7076-11eb-873d-f6bba50ba6ef.jpeg)
 
 
 
