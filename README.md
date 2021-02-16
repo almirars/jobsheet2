@@ -59,6 +59,10 @@
 
 ![padding](https://user-images.githubusercontent.com/64759903/108030699-3bf5c300-7062-11eb-8e61-81944ced9619.jpeg)
 
+15. coba transform
+
+![transform](https://user-images.githubusercontent.com/64759903/108031922-3600e180-7064-11eb-8304-a25e874b6ebe.jpeg)
+
 
 
 
