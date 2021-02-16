@@ -39,6 +39,10 @@
 
 ![container](https://user-images.githubusercontent.com/64759903/108024851-f3d1a300-7057-11eb-9c99-97cc84e9a826.jpeg)
 
+10. coba alignment
+
+![alignment](https://user-images.githubusercontent.com/64759903/108026471-faade500-705a-11eb-80dc-99f413cfa7f9.jpeg)
+
 
 
 
