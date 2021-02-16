@@ -43,6 +43,11 @@
 
 ![alignment](https://user-images.githubusercontent.com/64759903/108026471-faade500-705a-11eb-80dc-99f413cfa7f9.jpeg)
 
+11. coba color
+
+![color](https://user-images.githubusercontent.com/64759903/108027868-6bee9780-705d-11eb-8a37-f568467d02b2.jpeg)
+
+
 
 
 
