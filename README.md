@@ -51,6 +51,11 @@
 
 ![height dan widhth](https://user-images.githubusercontent.com/64759903/108028854-0dc2b400-705f-11eb-8dce-d85761afdad4.jpeg)
 
+13. coba margin
+
+![margin](https://user-images.githubusercontent.com/64759903/108029881-d7863400-7060-11eb-9fb4-f8a6a16c5604.jpeg)
+
+
 
 
 
