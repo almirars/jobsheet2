@@ -83,6 +83,11 @@
 
 ![listview](https://user-images.githubusercontent.com/64759903/108046041-c21c0480-7076-11eb-873d-f6bba50ba6ef.jpeg)
 
+21. coba gridview
+
+![gridview](https://user-images.githubusercontent.com/64759903/108048685-e88f6f00-7079-11eb-9e84-c898e4ce9cfb.jpeg)
+
+
 
 
 
