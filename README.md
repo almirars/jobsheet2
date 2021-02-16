@@ -67,6 +67,9 @@
 
 ![decoration](https://user-images.githubusercontent.com/64759903/108037203-d3abdf00-706b-11eb-9045-737974ed60ad.jpeg)
 
+17. coba column
+
+![column](https://user-images.githubusercontent.com/64759903/108038455-6bf69380-706d-11eb-881c-2568350d26ff.jpeg)
 
 
 
