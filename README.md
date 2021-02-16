@@ -71,6 +71,9 @@
 
 ![column](https://user-images.githubusercontent.com/64759903/108038455-6bf69380-706d-11eb-881c-2568350d26ff.jpeg)
 
+18. coba row
+
+![row](https://user-images.githubusercontent.com/64759903/108039806-2a66e800-706f-11eb-99ad-0bb68f3d1b1e.jpeg)
 
 
 
