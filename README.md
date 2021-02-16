@@ -75,6 +75,10 @@
 
 ![row](https://user-images.githubusercontent.com/64759903/108039806-2a66e800-706f-11eb-99ad-0bb68f3d1b1e.jpeg)
 
+19. coba stack
+
+![stack](https://user-images.githubusercontent.com/64759903/108042631-a31b7380-7072-11eb-9759-a22e5120ea7c.jpeg)
+
 
 
 
